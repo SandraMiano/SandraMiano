@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandraMiano
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning on Robomind
+- 🌱 I’m currently learning on DIO.me
 - 💞️ I’m looking to collaborate on Software Developer LLC.
 - 📫 How to reach me SandraMiano on github
 
