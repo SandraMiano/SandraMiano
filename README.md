@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandraMiano
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning on DIO
-- 💞️ I’m looking to collaborate on Santander Code Girls
+- 🌱 I’m currently learning on Robomind
+- 💞️ I’m looking to collaborate on Software Developer LLC.
 - 📫 How to reach me SandraMiano on github
 
 <!---
