@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SandraMiano
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning on DIO.me
-- 💞️ I’m looking to collaborate on Software Developer LLC.
-- 📫 How to reach me SandraMiano on github
+- 👋 Hi, I’m
+- 👀 I’m interested 
+- 🌱 I’m currently 
+- 💞️ I’m looking 
+- 📫 How to reach
 
 <!---
 SandraMiano/SandraMiano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
